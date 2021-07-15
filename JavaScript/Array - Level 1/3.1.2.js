@@ -1,3 +1,3 @@
 function first(array) {
-    return array[1];
+    return array[0];
 }

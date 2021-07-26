@@ -5,6 +5,7 @@ The compile error is as follows:
 collect2: error: ld returned 1 exit status
 */
 
+//this code would work fine, but the codehs systems are not writing the code to run this method correctly.
 int product(int a, int b) {
     return a * b;
 }

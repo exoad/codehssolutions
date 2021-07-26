@@ -25,3 +25,4 @@ int main()
     cout << methodNameHere(parameters) << endl;
 }
 ```
+*Do not put the method in question below main as it will push an out of scope error.*
